@@ -1,0 +1,116 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background",
+      "value": "#0B1118"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F8FBFF"
+    },
+    {
+      "name": "text_icon",
+      "value": "#EAF4FF"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#AAB8C8"
+    },
+    {
+      "name": "text_muted",
+      "value": "#9FB0C3"
+    },
+    {
+      "name": "text_disabled",
+      "value": "#7B8491"
+    },
+    {
+      "name": "icon_disabled",
+      "value": "#6D7784"
+    },
+    {
+      "name": "card_bg",
+      "value": "#141C25"
+    },
+    {
+      "name": "card_bg_unavailable",
+      "value": "#161D26"
+    },
+    {
+      "name": "card_bg_selected",
+      "value": "#1A2E35"
+    },
+    {
+      "name": "card_bg_adjusting",
+      "value": "#163B36"
+    },
+    {
+      "name": "card_border",
+      "value": "#2C3B49"
+    },
+    {
+      "name": "accent_green",
+      "value": "#41D6A6"
+    },
+    {
+      "name": "stream_icon_bg",
+      "value": "#222D3A"
+    },
+    {
+      "name": "stream_icon_bg_selected",
+      "value": "#205A51"
+    },
+    {
+      "name": "monitor_icon_bg",
+      "value": "#242B35"
+    },
+    {
+      "name": "monitor_icon_bg_selected",
+      "value": "#5C4930"
+    },
+    {
+      "name": "monitor_bg_selected",
+      "value": "#2E2A24"
+    },
+    {
+      "name": "monitor_bg_adjusting",
+      "value": "#3A2D1C"
+    },
+    {
+      "name": "accent_monitor",
+      "value": "#F2BE72"
+    },
+    {
+      "name": "warning_text",
+      "value": "#F6B46B"
+    },
+    {
+      "name": "control_button_bg",
+      "value": "#253241"
+    },
+    {
+      "name": "control_primary_bg",
+      "value": "#2A3A4B"
+    },
+    {
+      "name": "control_primary_active_bg",
+      "value": "#236150"
+    },
+    {
+      "name": "ring_track",
+      "value": "#1B2430"
+    },
+    {
+      "name": "ring_muted",
+      "value": "#4B5563"
+    },
+    {
+      "name": "ring_idle",
+      "value": "#8DA2B8"
+    }
+  ]
+}

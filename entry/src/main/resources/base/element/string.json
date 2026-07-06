@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Volume"
+    },
+    {
+      "name": "app_name",
+      "value": "Volume"
+    },
+    {
+      "name": "microphone_permission_reason",
+      "value": "Monitor Mode needs microphone access to enable low-latency audio loopback testing."
+    },
+    {
+      "name": "notification_policy_permission_reason",
+      "value": "Volume controls need notification policy access to request system volume changes from the watch UI."
+    },
+    {
+      "name": "dashboard_title",
+      "value": "Volume"
+    },
+    {
+      "name": "navigation_mode",
+      "value": "Browse"
+    },
+    {
+      "name": "adjustment_mode",
+      "value": "Adjust"
+    },
+    {
+      "name": "control_decrease",
+      "value": "-"
+    },
+    {
+      "name": "control_increase",
+      "value": "+"
+    },
+    {
+      "name": "control_set",
+      "value": "SET"
+    },
+    {
+      "name": "control_ok",
+      "value": "OK"
+    },
+    {
+      "name": "stream_muted",
+      "value": "Muted"
+    },
+    {
+      "name": "monitor_icon",
+      "value": "MON"
+    },
+    {
+      "name": "monitor_label",
+      "value": "Monitor"
+    },
+    {
+      "name": "monitor_on",
+      "value": "On"
+    },
+    {
+      "name": "monitor_off",
+      "value": "Off"
+    },
+    {
+      "name": "unavailable_volume_message",
+      "value": "This volume type is not available on this device."
+    },
+    {
+      "name": "dashboard_init_error",
+      "value": "Use the device volume control to adjust system volume."
+    }
+  ]
+}
